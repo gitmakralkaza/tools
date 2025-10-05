@@ -1,0 +1,12 @@
+
+title: Makralkaza IT Templates
+description: Jackson, TN SMB IT compliance tips, Microsoft 365 automation, and templates.
+url: ""
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+markdown: kramdown
+kramdown:
+  input: GFM
