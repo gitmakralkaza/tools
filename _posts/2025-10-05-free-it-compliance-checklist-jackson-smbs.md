@@ -21,7 +21,7 @@ Briefly explain risks: fines, downtime, data breaches.
 - Add Power Automate flows for email reminders.
 
 ## Download Your Free Checklist
-[Get the Makralkaza IT Essentials Pack →](https://makralkaza.com/store?utm_source=blog&utm_medium=organic&utm_campaign=it_compliance)
+[Get the Makralkaza IT Essentials Pack →](https://git.makralkaza.com/packages/Makralkaza_IT_Compliance_Pack.xlsx)
 
 ### Call to Action
 Need full IT management? Book a free consult with Makralkaza MSP.
