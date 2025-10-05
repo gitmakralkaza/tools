@@ -18,7 +18,7 @@ Highlight “Expiring in 30 days” in yellow, “Expired” in red.
 Send weekly emails for assets nearing expiry.
 
 ## Download the Ready-to-Use Template
-[Makralkaza IT Essentials Pack →](https://makralkaza.com/store?utm_source=blog&utm_medium=organic&utm_campaign=warranty_tracking)
+[Get the Makralkaza IT Essentials Pack →](https://git.makralkaza.com/packages/Makralkaza_IT_Compliance_Pack.xlsx)
 
 ### Call to Action
 Want zero manual work? Our MSP team handles everything for you.
