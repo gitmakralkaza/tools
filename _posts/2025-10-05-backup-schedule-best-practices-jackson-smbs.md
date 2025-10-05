@@ -20,7 +20,7 @@ Common mistakes: no offsite copy, skipped test restores.
 - Power Automate flow for PDF backup reports.
 
 ## Download the Backup Schedule Template
-[Makralkaza IT Essentials Pack →]([https://git.makralkaza.com/packages/Makralkaza_IT_Compliance_Pack.xlsx])
+[Makralkaza IT Essentials Pack →]([/packages/Makralkaza_IT_Compliance_Pack.xlsx])
 
 ### Call to Action
 Need guaranteed uptime? Talk to Makralkaza MSP today.
